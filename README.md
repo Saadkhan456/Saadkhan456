@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D12AQHN58g4mUfHrA/article-cover_image-shrink_600_2000/0/1679867911154?e=2147483647&v=beta&t=2r9IjTE48NU6a3iSdDC5gP1-hrUcfa0M8y5s3cX_2vw)
+![MasterHead](https://camo.githubusercontent.com/86dd7103ef0de4a8e68fd54fcd9eadd7fdb66ea554d564c1c0c71b50feaa6d46/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f313430305f6f70745f312f3765653233623134333538343330372e363237643130353938333261652e676966)
 <h1 align="center">Hi 👋, I'm Saad Khan</h1>
 <h3 align="center">A passionate learning frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
